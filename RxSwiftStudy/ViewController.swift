@@ -10,12 +10,18 @@ import UIKit
 import RxSwift
 
 class ViewController: UIViewController {
+    let vm = ObservableTestViewModel()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
 
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        vm.test()
+    }
 
 }
 
