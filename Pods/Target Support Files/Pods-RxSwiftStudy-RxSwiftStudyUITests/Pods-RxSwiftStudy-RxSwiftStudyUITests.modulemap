@@ -1,6 +1,0 @@
-module Pods_RxSwiftStudy_RxSwiftStudyUITests {
-  umbrella header "Pods-RxSwiftStudy-RxSwiftStudyUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
