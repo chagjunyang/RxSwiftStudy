@@ -36,5 +36,5 @@
 ### API
 
 - 메뉴 목록 조회 : http://www.mocky.io/v2/5de8993331000059006b124f
-- 메뉴 상세 조회 : http://www.mocky.io/v2/5de8a07431000051006b127d
+- 메뉴 상세 조회 : http://www.mocky.io/v2/5def5f872f000057008e0985
 
